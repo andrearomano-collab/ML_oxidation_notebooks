@@ -7,7 +7,7 @@ The analysis is divided into three notebooks:
 `notebooks/ML_oxidation_representative_time_profiles_four_features.ipynb` generates the representative temporal profiles of the four anchor features.
 `notebooks/ML_oxidation_grouped_profiles_38_features.ipynb` generates the four grouped figures showing the anchor features and their selected correlated features.
 The source and processed data are archived separately at Zenodo:
-Zenodo record: `ZENODO_DOI_HERE`
+Zenodo record: `10.5281/zenodo.22790910`
 The Zenodo record is the permanent archive of the data and exact analysis release associated with the manuscript. The GitHub repository provides a browsable and reusable version of the code.
 Software requirements
 Python 3.10 or later is recommended. Install the required packages in a new environment:
