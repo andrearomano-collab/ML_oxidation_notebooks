@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite the archived Zenodo release and the
+  associated article.
+title: >-
+  Analysis code for Single-platform monitoring of methyl linoleate oxidation
+  by Vocus high-resolution chemical-ionisation time-of-flight mass spectrometry
+type: software
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Moayedi
+    given-names: Mehdi
+  - family-names: Romano
+    given-names: Andrea
+  - family-names: Cappellin
+    given-names: Luca
+  - family-names: Zhang
+    given-names: Jiayi
+  - family-names: Khomenko
+    given-names: Iuliia
+  - family-names: Tonezzer
+    given-names: Matteo
+  - family-names: Pedrotti
+    given-names: Michele
+  - family-names: Biasioli
+    given-names: Franco
+abstract: >-
+  Python notebooks for processing complementary dynamic-headspace and
+  dynamic-solution-injection Vocus HR-CI-TOF-MS measurements of methyl
+  linoleate oxidation, including normalisation, blank subtraction, feature
+  selection, data fusion, correlation analysis and temporal-profile figures.
+keywords:
+  - lipid oxidation
+  - methyl linoleate
+  - chemical-ionisation mass spectrometry
+  - Vocus
+  - high-resolution mass spectrometry
+  - dynamic headspace
+  - Python
+repository-code: https://github.com/andrearomano-collab/ML_oxidation_notebooks
+doi: 10.5281/zenodo.22790910
